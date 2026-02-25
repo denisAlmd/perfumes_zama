@@ -1,0 +1,13 @@
+main {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #6b4f3c;
+  text-align: center;
+  border-bottom: 2px solid #d4b89c;
+  padding-bottom: 15px;
+}

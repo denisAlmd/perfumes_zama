@@ -1,0 +1,40 @@
+<div class="perfume-card">
+  <div class="image-container">
+    <img [src]="imagemAtualSrc" [alt]="perfume.nome">
+    
+    <!-- Botões de navegação só aparecem se tiver mais de 1 imagem -->
+    <div class="image-nav" *ngIf="perfume.imagens.length > 1">
+      <button class="nav-btn prev" (click)="imagemAnterior()">❮</button>
+      <button class="nav-btn next" (click)="proximaImagem()">❯</button>
+    </div>
+
+    <!-- Indicadores de quantas imagens -->
+    <div class="image-indicators" *ngIf="perfume.imagens.length > 1">
+      <span 
+        *ngFor="let img of perfume.imagens; let i = index"
+        class="dot"
+        [class.active]="i === imagemAtual"
+        (click)="imagemAtual = i">
+      </span>
+    </div>
+  </div>
+
+  <!-- Badges de destaque/lançamento -->
+  <div class="badges">
+    <span class="badge destaque" *ngIf="perfume.destaque">Destaque</span>
+    <span class="badge lancamento" *ngIf="perfume.lancamento">Lançamento</span>
+  </div>
+
+  <h3>{{ perfume.nome }}</h3>
+  <p class="marca">{{ perfume.marca }}</p>
+  <p class="descricao">{{ perfume.descricao }}</p>
+  
+  <div class="preco-categoria">
+    <span class="categoria">{{ perfume.categoria }}</span>
+    <span class="preco">R$ {{ perfume.preco.toFixed(2) }}</span>
+  </div>
+  
+  <div class="nota">
+    ⭐ {{ perfume.nota }}/5
+  </div>
+</div>

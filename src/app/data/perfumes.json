@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Bleu de Chanel",
+    "marca": "Chanel",
+    "categoria": "masculino",
+    "preco": 450.00,
+    "descricao": "Fragrância amadeirada e fresca, perfeita para o dia a dia.",
+    "imagens": ["bleu-chanel.jpg"],
+    "nota": 4.8
+  },
+  {
+    "id": 2,
+    "nome": "Dior Sauvage",
+    "marca": "Dior",
+    "categoria": "feminino",
+    "preco": 450.00,
+    "descricao": "Fragrância amadeirada e fresca, perfeita para o dia a dia.",
+    "imagens": ["dior-sauvage.jpg"],
+    "nota": 4.8
+  }
+
+]

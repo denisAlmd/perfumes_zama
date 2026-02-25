@@ -1,0 +1,31 @@
+<div class="home">
+  <div class="filtros">
+    <button 
+      [class.ativo]="filtroAtivo === 'todos'"
+      (click)="filtrar('todos')">
+      Todos
+    </button>
+    <button 
+      [class.ativo]="filtroAtivo === 'masculino'"
+      (click)="filtrar('masculino')">
+      Masculino
+    </button>
+    <button 
+      [class.ativo]="filtroAtivo === 'feminino'"
+      (click)="filtrar('feminino')">
+      Feminino
+    </button>
+    <button 
+      [class.ativo]="filtroAtivo === 'unissex'"
+      (click)="filtrar('unissex')">
+      Unissex
+    </button>
+  </div>
+
+  <div class="perfumes-grid">
+    <app-perfume-card 
+      *ngFor="let perfume of perfumesFiltrados"
+      [perfume]="perfume">
+    </app-perfume-card>
+  </div>
+</div>
