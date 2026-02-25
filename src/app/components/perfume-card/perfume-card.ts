@@ -1,10 +1,13 @@
 import { Component, Input } from '@angular/core';
 import { Perfume } from '../../models/perfume.model';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-perfume-card',
-  templateUrl: './perfume-card.html',
-  styleUrls: ['./perfume-card.css']
+  standalone: true,
+  imports: [CommonModule],
+  templateUrl: 'perfume-card.html',
+  styleUrls: ['perfume-card.css']
 })
 export class PerfumeCardComponent {
   @Input() perfume!: Perfume;
