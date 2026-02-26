@@ -1,22 +1,12 @@
 [
   {
     "id": 1,
-    "nome": "Bleu de Chanel",
-    "marca": "Chanel",
-    "categoria": "masculino",
-    "preco": 450.00,
-    "descricao": "Fragrância amadeirada e fresca, perfeita para o dia a dia.",
-    "imagens": ["bleu-chanel.jpg"],
-    "nota": 4.8
-  },
-  {
-    "id": 2,
-    "nome": "Dior Sauvage",
-    "marca": "Dior",
+    "nome": "Sabah Al Ward",
+    "marca": "Al Wataniah",
     "categoria": "feminino",
     "preco": 450.00,
-    "descricao": "Fragrância amadeirada e fresca, perfeita para o dia a dia.",
-    "imagens": ["dior-sauvage.jpg"],
+    "descricao": "Um perfume envolvente e sofisticado, que traduz a delicadeza das flores com um toque marcante e elegante. Ideal para mulheres que desejam deixar uma impressão inesquecível, com uma fragrância intensa, feminina e apaixonante.Perfeito para ocasiões especiais ou para transformar qualquer momento em algo extraordinário. 💖",
+    "imagens": ["SabahAlWard1.jpeg", "SabahAlWard2.jpeg"],
     "nota": 4.8
   }
 

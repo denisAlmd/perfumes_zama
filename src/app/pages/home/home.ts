@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { CommonModule } from '@angular/common';  // Para *ngFor, *ngIf
+import { CommonModule } from '@angular/common';
 import { PerfumeCardComponent } from '../../components/perfume-card/perfume-card'
 import { Perfume } from '../../models/perfume.model';
 
