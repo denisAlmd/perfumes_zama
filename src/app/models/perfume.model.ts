@@ -3,6 +3,7 @@ export interface Perfume {
   nome: string;
   marca: string;
   categoria: 'masculino' | 'feminino' | 'unissex';
+  volume: string;
   preco: number;
   descricao: string;
   imagens: string[];

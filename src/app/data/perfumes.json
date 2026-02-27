@@ -4,10 +4,72 @@
     "nome": "Sabah Al Ward",
     "marca": "Al Wataniah",
     "categoria": "feminino",
-    "preco": 450.00,
-    "descricao": "Um perfume envolvente e sofisticado, que traduz a delicadeza das flores com um toque marcante e elegante. Ideal para mulheres que desejam deixar uma impressão inesquecível, com uma fragrância intensa, feminina e apaixonante.Perfeito para ocasiões especiais ou para transformar qualquer momento em algo extraordinário. 💖",
+    "volume": "80ml",
+    "descricao": "Um perfume envolvente e sofisticado, que traduz a delicadeza das flores com um toque marcante e elegante. Ideal para mulheres que desejam deixar uma impressão inesquecível, com uma fragrância intensa, feminina e apaixonante.Perfeito para ocasiões especiais ou para transformar qualquer momento em algo extraordinário. Fixação: Alta | Projeção: Moderada 💖",
     "imagens": ["SabahAlWard1.jpeg", "SabahAlWard2.jpeg"],
     "nota": 4.8
+  },
+  {
+    "id": 2,
+    "nome": "212 VIP Rosé NYC",
+    "marca": "Carolina Herrera",
+    "categoria": "feminino",
+    "volume": "80ml",
+    "descricao": "Uma celebração em forma de fragrância. A abertura é um brinde efervescente de Champanhe Rosé com a doçura suculenta das Frutas Vermelhas. No coração, a Peônia floresce com sua elegância delicada e aveludada. Por fim, a fragrância repousa sobre a sofisticação terrosa do Patchouli e a rara suavidade amadeirada do Queenwood, criando um rastro inesquecível e sensual.",
+    "imagens": ["212 rose.jpeg"],
+    "nota": 4.7
+  },
+  {
+    "id": 3,
+    "nome": "212 VIP Black NYC Rodeo EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "Masculino",
+    "volume": "100ml",
+    "descricao": "Para quem busca uma assinatura olfativa poderosa e inesquecível. Esta fragrância abre com a vibração aromática do Lavandin e do Alecrim, evoluindo para um coração luxuoso onde o Couro Saffiano encontra a ousadia herbal do Absinto. A profunda base amadeirada de Vetiver e Patchouli garante fixação intensa e um rastro magnético, moderno e sofisticado.",
+    "imagens": ["212 Black.jpeg"],
+    "nota": 4.7
+  },
+  {
+    "id": 4,
+    "nome": "212 VIP Black Men Elixir EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "Masculino",
+    "volume": "50ml e 100ml",
+    "descricao": "Um perfume que transita entre o fresco e o proibido. Começa com a explosão cítrica da Toranja e a lavanda mais escura que existe. No centro, o alcaçuz e o açafrão criam um twist picante e gourmet, suavizado pela flor de laranjeira. Tudo isso derrete em uma base de baunilha negra e madeiras profundas.Fixação: Alta | Projeção: Moderada a Forte.",
+    "imagens": ["Elixir.jpeg"],
+    "nota": 4.7
+  },
+  {
+    "id": 5,
+    "nome": "212",
+    "marca": "Carolina Herrera",
+    "categoria": "Feminino",
+    "volume": "30ml, 50ml e 80ml",
+    "descricao": "A felicidade em forma de perfume. A saída cítrica e doce da Framboesa com Tangerina abre sorrisos. O coração é um abraço floral de Jasmim e Flor de Laranjeira, enquanto o fundo amadeirado de Sândalo e Cedro traz a sofisticação e o conforto que duram o dia inteiro. Fixação: Média | Projeção: Suave a Moderada.",
+    "imagens": ["212.jpeg"],
+    "nota": 4.7
+  },
+  {
+    "id": 6,
+    "nome": "212 Femme EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "Feminino",
+    "volume": "80ml",
+    "descricao": "Notas de saída",
+    "imagens": ["212 rose.jpeg"],
+    "nota": 4.7
+  },
+  {
+    "id": 7,
+    "nome": "212 Heroes For Her NY Laundry EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "Feminino",
+    "volume": "80ml",
+    "descricao": "212 Heroes For Her abre com a explosão vibrante da Tangerina italiana e a doçura suculenta da Framboesa – um convite efervescente à liberdade. No coração, a feminilidade floresce: o Jasmim sensual encontra a suavidade delicada da Flor de Laranjeira, criando um bouquet branco e envolvente. Na base, a força da personalidade se revela na cremosidade do Sândalo e na elegância imponente do Cedro, deixando um rastro viciante e profundo. Para mulheres que inspiram o mundo sendo exatamente quem são. Fixação: Moderada a Alta | Projeção: Moderada.",
+    "imagens": ["212 Heroes.jpeg"],
+    "nota": 4.7
   }
-
+ 
+  
+    
 ]
