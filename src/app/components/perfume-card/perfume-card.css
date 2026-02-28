@@ -132,6 +132,7 @@ h3 {
   font-size: 14px;
   margin: 10px 0;
   line-height: 1.4;
+  
 }
 
 .preco-categoria {
@@ -156,8 +157,35 @@ h3 {
   color: #6b4f3c;
 }
 
-.nota {
-  color: #f39c12;
+.contatos {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+  justify-content: flex-end;
+}
+
+.contato-link {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 14px;
   font-weight: bold;
-  text-align: right;
+  transition: background 0.2s;
+}
+
+.contato-link.whatsapp {
+  background: #b8eac7;
+  color: #22543d;
+}
+
+.contato-link.instagram {
+  background: #f3e0e7;
+  color: #a63c6c;
+}
+
+.contato-link:hover {
+  opacity: 0.85;
 }
