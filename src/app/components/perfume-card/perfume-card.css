@@ -16,7 +16,7 @@
 .image-container {
   position: relative;
   width: 100%;
-  height: 200px;
+  height: 300px;
   overflow: hidden;
   border-radius: 4px;
 }
@@ -132,7 +132,15 @@ h3 {
   font-size: 14px;
   margin: 10px 0;
   line-height: 1.4;
-  
+}
+
+.notas {
+  margin: 10px 0;
+  font-size: 14px;
+  color: #6b4f3c;
+}
+.notas strong {
+  color: #a67c5e;
 }
 
 .preco-categoria {

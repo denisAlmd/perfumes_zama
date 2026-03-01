@@ -34,6 +34,14 @@
     <span class="volume">{{ perfume.volume }}</span>
   </div>
 
+  <div class="notas" *ngIf="perfume.notas_saida || perfume.notas_coracao || perfume.notas_fundo || perfume.fixacao || perfume.projecao">
+    <div *ngIf="perfume.notas_saida"><strong>Notas de saída:</strong> {{ perfume.notas_saida }}</div>
+    <div *ngIf="perfume.notas_coracao"><strong>Notas de coração:</strong> {{ perfume.notas_coracao }}</div>
+    <div *ngIf="perfume.notas_fundo"><strong>Notas de fundo:</strong> {{ perfume.notas_fundo }}</div>
+    <div *ngIf="perfume.fixacao"><strong>Fixação:</strong> {{ perfume.fixacao }}</div>
+    <div *ngIf="perfume.projecao"><strong>Projeção:</strong> {{ perfume.projecao }}</div>
+  </div>
+
   <!-- Contatos -->
   <div class="contatos">
     <!-- Substitua o conteúdo dos <span class="icon"> pelos SVGs abaixo -->
@@ -44,7 +52,7 @@
       </span>
       WhatsApp
     </a>
-    <a href="https://instagram.com/SEUINSTAGRAM" target="_blank" class="contato-link instagram" aria-label="Instagram">
+    <a href="https://instagram.com/lisselisperfumes" target="_blank" class="contato-link instagram" aria-label="Instagram">
       <span class="icon">
         <!-- Ícone Instagram SVG -->
         <svg width="18" height="18" viewBox="0 0 32 32" fill="none"><rect x="7" y="7" width="18" height="18" rx="5" fill="#a63c6c"/><circle cx="16" cy="16" r="5" fill="#fff"/><circle cx="22" cy="10" r="1" fill="#fff"/></svg>
