@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nome": "Sabah Al Ward (Árabe)",
+    "nome": "Sabah al Ward (Árabe)",
     "marca": "Al Wataniah",
     "categoria": "feminino",
     "volume": "80ml",
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "nome": "212 VIP Rosé NYC",
+    "nome": "212 Vip Rosé NYC",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "80ml",
@@ -32,7 +32,7 @@
   },
   {
     "id": 3,
-    "nome": "212 VIP Black NYC ",
+    "nome": "212 Vip Black NYC",
     "marca": "Carolina Herrera",
     "categoria": "masculino",
     "volume": "100ml",
@@ -47,7 +47,7 @@
   },
   {
     "id": 4,
-    "nome": "212 VIP Black Men Elixir EDP",
+    "nome": "212 Vip Black Men Elixir EDP",
     "marca": "Carolina Herrera",
     "categoria": "masculino",
     "volume": "50ml e 100ml",
@@ -73,12 +73,11 @@
     "notas_fundo":"Sândalo e Cedro",
     "fixacao":"Média",
     "projecao":"Suave a Moderada",
-  
     "nota": 4.7
   },
   {
     "id": 6,
-    "nome": "212 Heroes For Her NY Laundry EDP",
+    "nome": "212 Heroes for Her NY Laundry EDP",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "80ml",
@@ -93,7 +92,7 @@
   },
   {
     "id": 7,
-    "nome": "212 NYC FEMME EDT",
+    "nome": "212 NYC Femme EDT",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "80ml",
@@ -107,7 +106,7 @@
   },
   {
     "id": 8,
-    "nome": "212 VIP FEMME EDP",
+    "nome": "212 Vip Femme EDP",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "50ml e 80ml",
@@ -121,7 +120,7 @@
   },
   {
     "id": 9,
-    "nome": "212 VIP Rose Elixir",
+    "nome": "212 Vip Rosé Elixir",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "30ml, 50ml e 80ml",
@@ -149,7 +148,7 @@
   },
   {
     "id": 11,
-    "nome": "212 VIP Rose Hair Mist",
+    "nome": "212 Vip Rosé Hair Mist",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "30ml",
@@ -189,7 +188,7 @@
     "fixacao": "Alta",
     "projecao": "Moderada a Forte."
   },
-   {
+  {
     "id": 14,
     "nome": "Good Girl Legere EDP",
     "marca": "Carolina Herrera",
@@ -202,11 +201,11 @@
     "notas_fundo": "Cumaru e Acorde de Doce de Leite",
     "fixacao": "Alta",
     "projecao": "Moderada a Forte."
-    },
-    {
+  },
+  {
     "id": 15,
-    "nome":"Good Girl Suprême EDP",
-    "marca": "Carolina Herrera",  
+    "nome": "Good Girl Suprême EDP",
+    "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "30ml, 50ml e 80ml",
     "descricao":"Uma celebração da ousadia e da sedução. Good Girl Suprême abre com a doçura suculenta das Berries, que se entrelaça com a intensidade afrodisíaca do Jasmim Egípcio e a suavidade delicada da Flor de Laranjeira — um bouquet floral frutado que anuncia uma nova atitude. Na base, a cremosidade do Cumaru encontra a profundidade terrosa do Vetiver, criando um rastro quente, sofisticado e inesquecível na pele. Para mulheres que abraçam sua dualidade com confiança e estilo.",
@@ -216,10 +215,10 @@
     "notas_fundo": "Cumaru e Vetiver",
     "fixacao": "Alta",
     "projecao": "Moderada a Forte."
-    },
-    {
+  },
+  {
     "id": 16,
-    "nome":"Very Good Girl EDP",
+    "nome": "Very Good Girl EDP",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "30ml, 50ml e 80ml",
@@ -230,10 +229,10 @@
     "notas_fundo": "Cumaru e Cacau",
     "fixacao": "Alta",
     "projecao": "Moderada a Forte."
-    },
-    {
+  },
+  {
     "id": 17,
-    "nome":"Very Good Girl Glam",
+    "nome": "Very Good Girl Glam",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "30ml, 50ml e 80ml",
@@ -244,10 +243,10 @@
     "notas_fundo": "Vetiver e Baunilha Bourbon",
     "fixacao": "Alta",
     "projecao": "Moderada a Forte."
-    },
-     {
+  },
+  {
     "id": 18,
-    "nome":"Good Girl Blush EDP",
+    "nome": "Good Girl Blush EDP",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "30ml, 50ml, 80ml e 150ml",
@@ -258,10 +257,10 @@
     "notas_fundo": "Baunilha e Cumaru",
     "fixacao": "Alta",
     "projecao": "Moderada a Forte"
-     },
-     {
+  },
+  {
     "id": 19,
-    "nome":"Good Girl Blush Hair Mist",
+    "nome": "Good Girl Blush Hair Mist",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "30ml",
@@ -272,11 +271,10 @@
     "notas_fundo": "Baunilha e Cumaru",
     "fixacao": "Alta",
     "projecao": "Moderada a Forte"
-     },
-     {
-  
+  },
+  {
     "id": 20,
-    "nome":"Good Girl Sparkling ICE EDT",
+    "nome": "Good Girl Sparkling Ice EDT",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "80ml",
@@ -290,26 +288,225 @@
   },
   {
     "id": 21,
-    "nome":"Good Girl Dazzling Garden EDP",
+    "nome": "Good Girl Dazzling Garden EDP",
     "marca": "Carolina Herrera",
     "categoria": "feminino",
     "volume": "80ml",
-    "descricao":"ALTERAR",
     "imagens": ["dazzling.jpg"],
     "notas_saida": "Amêndoa e Café",
     "notas_coracao": "Jasmim-árabe e Tuberosa",
-    "notas_fundo": "Fava Tonka e Cacau"
+    "notas_fundo": "Fava Tonka e Cacau",
+    "descricao": "Uma fragrância envolvente que combina a intensidade marcante da amêndoa e do café em sua abertura, evoluindo para um coração floral sofisticado de jasmim-árabe e tuberosa. No fundo, a cremosidade da fava tonka e o toque adocicado do cacau criam um rastro irresistível, perfeito para mulheres que desejam marcar presença com elegância e ousadia."
   },
   {
     "id": 22,
-    "nome":"CH FEMME EDT",
-    "marca": "Carolina Herrera",
+    "nome": "CH Femme EDT",
+    "marca": "Carolina Herrera EDT",
     "categoria": "feminino",
     "volume": "30ml, 50ml e 100ml",
-    "descricao":"ALTERAR",
     "imagens": ["chfemme.jpg"],
     "notas_saida": "Bergamota e Grapefruit",
     "notas_coracao": "Rosa da Bulgária e Jasmim-árabe",
-    "notas_fundo": "Patchouli e Nota de pralinê"
+    "notas_fundo": "Patchouli e Nota de pralinê",
+    "descricao": "Uma fragrância fresca e luminosa, que se abre com notas cítricas de bergamota e grapefruit. O coração floral revela a delicadeza da rosa da Bulgária e o exotismo do jasmim-árabe, enquanto o fundo combina a sofisticação do patchouli com a doçura envolvente do pralinê. Ideal para mulheres que buscam elegância e feminilidade em todos os momentos."
+  },
+  {
+    "id": 23,
+    "nome": "CH Femme EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "feminino",
+    "volume": "100ml",
+    "imagens": ["chedt.jpg"],
+    "notas_saida": "Bergamota e Damasco",
+    "notas_coracao": "Tuberosa e Jasmim",
+    "notas_fundo": "Sândalo e Âmbar",
+    "descricao": "Uma fragrância sofisticada que une a vivacidade da bergamota e a suavidade do damasco na saída. O coração floral de tuberosa e jasmim traz feminilidade e charme, enquanto o fundo amadeirado de sândalo e âmbar garante um toque quente e envolvente. Perfeita para mulheres que apreciam perfumes elegantes e marcantes."
+  },
+  {
+    "id": 24,
+    "nome": "CH Femme Birds of Paradise EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "feminino",
+    "volume": "100ml",
+    "imagens": ["birdsb.jpg"],
+    "notas_saida": "Néroli e Groselha preta",
+    "notas_coracao": "Coco e Absoluto Rosa",
+    "notas_fundo": "Sândalo e Baunilha"
+  },
+  {
+    "id": 25,
+    "nome": "CH Pasion Femme EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "feminino",
+    "volume": "100ml",
+    "imagens": ["chpasion.jpg"],
+    "notas_saida": "Vert de Bergamota e Acorde de Pera Verde ",
+    "notas_coracao": "Jasmim-árabe e Folhas de Violeta",
+    "notas_fundo": "Baunilha e Acorde de Couro"
+  },
+  {
+    "id": 26,
+    "nome": "212 Heroes Men EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "50ml e 90ml",
+    "imagens": ["212heroesmenedp.jpg"],
+    "notas_saida": "Pera, Cannabis e Gengibre",
+    "notas_coracao": "Gerânio e Sálvia",
+    "notas_fundo": "Almíscar e Couro"
+  },
+  {
+    "id": 27,
+    "nome": "212 Heroes Men NY Laundry EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "90ml",
+    "imagens": ["212heroesmenlaundry.jpg"],
+    "notas_saida": "Gengibre e Pera",
+    "notas_coracao": "Sálvia e Gerânio",
+    "notas_fundo": "Couro e Almíscar"
+  },
+  {
+    "id": 28,
+    "nome": "CH 212 Men EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "30ml, 50ml e 100ml",
+    "imagens": ["ch212men.jpg"],
+    "notas_saida": "Folhas Cítricas e Grama Cortada",
+    "notas_coracao": "Gardênia e Lavanda",
+    "notas_fundo": "Sândalo e Almíscar"
+  },
+  {
+    "id": 29,
+    "nome": "212 Vip",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "30ml, 50ml e 100ml",
+    "imagens": ["212vip.jpg"],
+    "notas_saida": "Lima-caviar e Menta Fresca",
+    "notas_coracao": "Gengibre e Vodca gelada",
+    "notas_fundo": "Pau-violeta e Cumaru"
+  },
+  {
+    "id": 30,
+    "nome": "212 Vip Black NYC",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "50ml e 100ml",
+    "imagens": ["212black.jpg"],
+    "notas_saida": "Absinto",
+    "notas_coracao": "Lavanda e Couro",
+    "notas_fundo": "Baunilha e Almíscar"
+  },
+  {
+    "id": 31,
+    "nome": "Ch Bad Boy EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "50ml e 100ml",
+    "imagens": ["chbadboy.jpg"],
+    "notas_saida": "Bergamota e Pimenta Rosa e Branco",
+    "notas_coracao": "Cedro e Sálvia",
+    "notas_fundo": "Cumaru,  Cacau"
+  },
+  {
+    "id": 32,
+    "nome": "Ch Bad Boy Extreme EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "100ml",
+    "imagens": ["chbadboyextreme.jpg"],
+    "notas_saida": "Sálvia e Gengibre",
+    "notas_coracao": "Vetiver e Cacau",
+    "notas_fundo": "Cumaru e Patchouli"
+  },
+  {
+    "id": 33,
+    "nome": "CH Bad Boy Cobalt EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "50ml, 100ml e 150ml",
+    "imagens": ["chbadboycobalt.jpg"],
+    "notas_saida": "Pimenta Rosa e Lavanda",
+    "notas_coracao": "Ameixa e Gerânio",
+    "notas_fundo": "Trufa, Vetiver e Cedro"
+  },
+  {
+    "id": 34,
+    "nome": "CH Bad Boy Sparkiling Ice EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "100ml",
+    "imagens": ["chbadboysparkilingice.jpg"],
+    "notas_saida": "Toranja e pimenta branca",
+    "notas_coracao": "Sálvia esclaréia e Vetiver",
+    "notas_fundo": "Cacau e Fava Tonka"
+  },
+  {
+    "id": 35,
+    "nome": "CH Bad Boy Gold Fantasy EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "100ml",
+    "imagens": ["chbadboygoldfantasy.jpg"],
+    "notas_saida": "Mogma Ardente",
+    "notas_coracao": "Pimenta Branca",
+    "notas_fundo": "Rosa e Fava Tonka"
+  },
+  {
+    "id": 36,
+    "nome": "CH Men Birds of Paradise EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "100ml",
+    "imagens": ["chmenbirdsofparadise.jpg"],
+    "notas_saida": "Néroli e Groselha Negra",
+    "notas_coracao": "Coco e Rosa",
+    "notas_fundo": "Baunilha e Sândalo"
+  },
+  {
+    "id": 37,
+    "nome": "Pasión EAU de Parfum Men",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "100ml",
+    "imagens": ["pasionmen.jpg"],
+    "notas_saida": "Pimenta Rosa e Néroli",
+    "notas_coracao": "Orris, Incenso e Cedro",
+    "notas_fundo": "Tonka, Baunilha e Mirra"
+  },
+  {
+    "id": 38,
+    "nome": "CH Men Dio",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "50ml e 100ml",
+    "imagens": ["chmendio.jpg"],
+    "notas_saida": "Toranja e Folhas de Violeta",
+    "notas_coracao": "Açafrão e Ciclâmen",
+    "notas_fundo": "Cashmeran e Couro"
+  },
+  {
+    "id": 39,
+    "nome": "CH 212 Heroes Body Spray for Her",
+    "marca": "Carolina Herrera",
+    "categoria": "feminino",
+    "volume": "250ml",
+    "imagens": ["ch212heroesbody.jpg"],
+    "notas_saida": "Bergamota, Pera e Limão",
+    "notas_coracao": "Jasmin, Lírio do Vale e Rosa",
+    "notas_fundo": "Almíscar, Cedro e Âmbar"
+  },
+  {
+    "id": 40,
+    "nome": "CH 212 Men Heroes Body Spray",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "250ml",
+    "imagens": ["ch212menheroesbody.jpg"],
+    "notas_saida": "Gengibre e Pera",
+    "notas_coracao": "Sálvia e Gerânio",
+    "notas_fundo": "Couro e Almíscar"
   }
 ]
