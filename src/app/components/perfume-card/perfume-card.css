@@ -142,6 +142,7 @@ h3 {
   text-overflow: ellipsis;
   scrollbar-width: thin;           /* Firefox */
   scrollbar-color: #d4b89c #f3e0e7;/* Firefox */
+  overflow-y: auto;
 }
 
 .notas {
