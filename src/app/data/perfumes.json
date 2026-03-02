@@ -331,7 +331,8 @@
     "imagens": ["birdsb.jpg"],
     "notas_saida": "Néroli e Groselha preta",
     "notas_coracao": "Coco e Absoluto Rosa",
-    "notas_fundo": "Sândalo e Baunilha"
+    "notas_fundo": "Sândalo e Baunilha",
+    "descricao": "Uma fragrância exótica e envolvente, que se inicia com a delicadeza do néroli e o toque frutado da groselha preta. O coração revela a cremosidade do coco e a sofisticação do absoluto de rosa, enquanto o fundo de sândalo e baunilha proporciona um rastro quente e marcante. Ideal para quem busca originalidade e elegância."
   },
   {
     "id": 25,
@@ -342,7 +343,8 @@
     "imagens": ["chpasion.jpg"],
     "notas_saida": "Vert de Bergamota e Acorde de Pera Verde ",
     "notas_coracao": "Jasmim-árabe e Folhas de Violeta",
-    "notas_fundo": "Baunilha e Acorde de Couro"
+    "notas_fundo": "Baunilha e Acorde de Couro",
+    "descricao": "Uma fragrância vibrante que combina a energia fresca da bergamota e da pera verde na saída. O coração floral de jasmim-árabe e folhas de violeta traz feminilidade e delicadeza, enquanto o fundo de baunilha e acorde de couro adiciona sofisticação e intensidade ao perfume."
   },
   {
     "id": 26,
@@ -353,7 +355,8 @@
     "imagens": ["212heroesmenedp.jpg"],
     "notas_saida": "Pera, Cannabis e Gengibre",
     "notas_coracao": "Gerânio e Sálvia",
-    "notas_fundo": "Almíscar e Couro"
+    "notas_fundo": "Almíscar e Couro",
+    "descricao": "Uma fragrância ousada e moderna, que abre com notas vibrantes de pera, cannabis e gengibre. O coração aromático de gerânio e sálvia traz frescor e personalidade, enquanto o fundo de almíscar e couro garante um rastro marcante e sofisticado."
   },
   {
     "id": 27,
@@ -364,7 +367,8 @@
     "imagens": ["212heroesmenlaundry.jpg"],
     "notas_saida": "Gengibre e Pera",
     "notas_coracao": "Sálvia e Gerânio",
-    "notas_fundo": "Couro e Almíscar"
+    "notas_fundo": "Couro e Almíscar",
+    "descricao": "Uma fragrância dinâmica que combina a energia do gengibre e da pera na saída, evoluindo para um coração aromático de sálvia e gerânio. O fundo de couro e almíscar traz intensidade e elegância, perfeito para homens autênticos e urbanos."
   },
   {
     "id": 28,
@@ -375,7 +379,8 @@
     "imagens": ["ch212men.jpg"],
     "notas_saida": "Folhas Cítricas e Grama Cortada",
     "notas_coracao": "Gardênia e Lavanda",
-    "notas_fundo": "Sândalo e Almíscar"
+    "notas_fundo": "Sândalo e Almíscar",
+    "descricao": "Uma fragrância refrescante e sofisticada, que abre com folhas cítricas e grama cortada. O coração floral de gardênia e lavanda proporciona leveza e elegância, enquanto o fundo de sândalo e almíscar garante fixação e um rastro marcante."
   },
   {
     "id": 29,
@@ -386,7 +391,8 @@
     "imagens": ["212vip.jpg"],
     "notas_saida": "Lima-caviar e Menta Fresca",
     "notas_coracao": "Gengibre e Vodca gelada",
-    "notas_fundo": "Pau-violeta e Cumaru"
+    "notas_fundo": "Pau-violeta e Cumaru",
+    "descricao": "Uma fragrância vibrante e sofisticada, que começa com a refrescância da lima-caviar e da menta fresca. O coração traz o toque picante do gengibre e a modernidade da vodca gelada, finalizando com a intensidade amadeirada do pau-violeta e cumaru."
   },
   {
     "id": 30,
@@ -397,29 +403,32 @@
     "imagens": ["212black.jpg"],
     "notas_saida": "Absinto",
     "notas_coracao": "Lavanda e Couro",
-    "notas_fundo": "Baunilha e Almíscar"
+    "notas_fundo": "Baunilha e Almíscar",
+    "descricao": "Uma fragrância intensa e misteriosa, que abre com o toque marcante do absinto. O coração une a suavidade da lavanda ao poder do couro, enquanto o fundo de baunilha e almíscar garante um rastro envolvente e sofisticado."
   },
   {
     "id": 31,
-    "nome": "Ch Bad Boy EDT",
+    "nome": "CH Bad Boy EDT",
     "marca": "Carolina Herrera",
     "categoria": "masculino",
     "volume": "50ml e 100ml",
     "imagens": ["chbadboy.jpg"],
     "notas_saida": "Bergamota e Pimenta Rosa e Branco",
     "notas_coracao": "Cedro e Sálvia",
-    "notas_fundo": "Cumaru,  Cacau"
+    "notas_fundo": "Cumaru,  Cacau",
+    "descricao": "Uma fragrância ousada e marcante, que combina a energia da bergamota e das pimentas rosa e branca na saída. O coração amadeirado de cedro e sálvia traz sofisticação, enquanto o fundo de cumaru e cacau garante um rastro quente e envolvente."
   },
   {
     "id": 32,
-    "nome": "Ch Bad Boy Extreme EDP",
+    "nome": "CH Bad Boy Extreme EDP",
     "marca": "Carolina Herrera",
     "categoria": "masculino",
     "volume": "100ml",
     "imagens": ["chbadboyextreme.jpg"],
     "notas_saida": "Sálvia e Gengibre",
     "notas_coracao": "Vetiver e Cacau",
-    "notas_fundo": "Cumaru e Patchouli"
+    "notas_fundo": "Cumaru e Patchouli",
+    "descricao": "Uma fragrância intensa e vibrante, que abre com a energia da sálvia e do gengibre. O coração une o frescor do vetiver ao toque gourmet do cacau, enquanto o fundo de cumaru e patchouli garante fixação e personalidade."
   },
   {
     "id": 33,
@@ -430,7 +439,8 @@
     "imagens": ["chbadboycobalt.jpg"],
     "notas_saida": "Pimenta Rosa e Lavanda",
     "notas_coracao": "Ameixa e Gerânio",
-    "notas_fundo": "Trufa, Vetiver e Cedro"
+    "notas_fundo": "Trufa, Vetiver e Cedro",
+    "descricao": "Uma fragrância moderna e sofisticada, que abre com o toque picante da pimenta rosa e a suavidade da lavanda. O coração frutado de ameixa e gerânio traz personalidade, enquanto o fundo de trufa, vetiver e cedro garante intensidade e elegância."
   },
   {
     "id": 34,
@@ -441,7 +451,8 @@
     "imagens": ["chbadboysparkilingice.jpg"],
     "notas_saida": "Toranja e pimenta branca",
     "notas_coracao": "Sálvia esclaréia e Vetiver",
-    "notas_fundo": "Cacau e Fava Tonka"
+    "notas_fundo": "Cacau e Fava Tonka",
+    "descricao": "Uma fragrância refrescante e ousada, que abre com a energia da toranja e da pimenta branca. O coração aromático de sálvia esclaréia e vetiver traz leveza, enquanto o fundo de cacau e fava tonka garante um rastro marcante e envolvente."
   },
   {
     "id": 35,
@@ -452,7 +463,8 @@
     "imagens": ["chbadboygoldfantasy.jpg"],
     "notas_saida": "Mogma Ardente",
     "notas_coracao": "Pimenta Branca",
-    "notas_fundo": "Rosa e Fava Tonka"
+    "notas_fundo": "Rosa e Fava Tonka",
+    "descricao": "Uma fragrância única e sofisticada, que abre com o toque intenso da mogma ardente. O coração picante de pimenta branca traz ousadia, enquanto o fundo de rosa e fava tonka garante suavidade e elegância ao perfume."
   },
   {
     "id": 36,
@@ -463,7 +475,8 @@
     "imagens": ["chmenbirdsofparadise.jpg"],
     "notas_saida": "Néroli e Groselha Negra",
     "notas_coracao": "Coco e Rosa",
-    "notas_fundo": "Baunilha e Sândalo"
+    "notas_fundo": "Baunilha e Sândalo",
+    "descricao": "Uma fragrância exótica e marcante, que abre com a delicadeza do néroli e o toque frutado da groselha negra. O coração cremoso de coco e rosa traz sofisticação, enquanto o fundo de baunilha e sândalo garante um rastro quente e envolvente."
   },
   {
     "id": 37,
@@ -474,7 +487,8 @@
     "imagens": ["pasionmen.jpg"],
     "notas_saida": "Pimenta Rosa e Néroli",
     "notas_coracao": "Orris, Incenso e Cedro",
-    "notas_fundo": "Tonka, Baunilha e Mirra"
+    "notas_fundo": "Tonka, Baunilha e Mirra",
+    "descricao": "Uma fragrância intensa e sofisticada, que abre com a energia da pimenta rosa e do néroli. O coração une o toque marcante do orris, incenso e cedro, enquanto o fundo de tonka, baunilha e mirra garante fixação e personalidade."
   },
   {
     "id": 38,
@@ -485,7 +499,8 @@
     "imagens": ["chmendio.jpg"],
     "notas_saida": "Toranja e Folhas de Violeta",
     "notas_coracao": "Açafrão e Ciclâmen",
-    "notas_fundo": "Cashmeran e Couro"
+    "notas_fundo": "Cashmeran e Couro",
+    "descricao": "Uma fragrância moderna e elegante, que abre com a refrescância da toranja e das folhas de violeta. O coração de açafrão e ciclâmen traz sofisticação, enquanto o fundo de cashmeran e couro garante intensidade e fixação."
   },
   {
     "id": 39,
@@ -496,7 +511,8 @@
     "imagens": ["ch212heroesbody.jpg"],
     "notas_saida": "Bergamota, Pera e Limão",
     "notas_coracao": "Jasmin, Lírio do Vale e Rosa",
-    "notas_fundo": "Almíscar, Cedro e Âmbar"
+    "notas_fundo": "Almíscar, Cedro e Âmbar",
+    "descricao": "Uma fragrância refrescante e feminina, que abre com notas vibrantes de bergamota, pera e limão. O coração floral de jasmin, lírio do vale e rosa traz delicadeza, enquanto o fundo de almíscar, cedro e âmbar garante fixação e sofisticação."
   },
   {
     "id": 40,
@@ -507,6 +523,7 @@
     "imagens": ["ch212menheroesbody.jpg"],
     "notas_saida": "Gengibre e Pera",
     "notas_coracao": "Sálvia e Gerânio",
-    "notas_fundo": "Couro e Almíscar"
+    "notas_fundo": "Couro e Almíscar",
+    "descricao": "Uma fragrância masculina e vibrante, que abre com a energia do gengibre e da pera. O coração aromático de sálvia e gerânio traz frescor, enquanto o fundo de couro e almíscar garante intensidade e elegância."
   }
 ]
