@@ -1,11 +1,11 @@
 import { Component, Input } from '@angular/core';
 import { Perfume } from '../../models/perfume.model';
-import { CommonModule } from '@angular/common';
+import { CommonModule, NgIf } from '@angular/common'; // Import NgIf
 
 @Component({
   selector: 'app-perfume-card',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, NgIf], // Use NgIf aqui
   templateUrl: 'perfume-card.html',
   styleUrls: ['perfume-card.css']
 })
@@ -13,26 +13,23 @@ export class PerfumeCardComponent {
   @Input() perfume!: Perfume;
   imagemAtual: number = 0;
 
-  // Pega a imagem atual baseada no índice
   get imagemAtualSrc(): string {
     return `assets/images/perfumes/${this.perfume.imagens[this.imagemAtual]}`;
   }
 
-  // Avança para próxima imagem
   proximaImagem() {
     if (this.imagemAtual < this.perfume.imagens.length - 1) {
       this.imagemAtual++;
     } else {
-      this.imagemAtual = 0; // Volta para primeira
+      this.imagemAtual = 0;
     }
   }
 
-  // Volta para imagem anterior
   imagemAnterior() {
     if (this.imagemAtual > 0) {
       this.imagemAtual--;
     } else {
-      this.imagemAtual = this.perfume.imagens.length - 1; // Vai para última
+      this.imagemAtual = this.perfume.imagens.length - 1;
     }
   }
 }

@@ -525,5 +525,42 @@
     "notas_coracao": "Sálvia e Gerânio",
     "notas_fundo": "Couro e Almíscar",
     "descricao": "Uma fragrância masculina e vibrante, que abre com a energia do gengibre e da pera. O coração aromático de sálvia e gerânio traz frescor, enquanto o fundo de couro e almíscar garante intensidade e elegância."
+  },
+  {
+    "id": 41,
+    "nome": "CH Bad Boy Le Perfume EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "50ml e 100ml",
+    "imagens": ["chbadboyleperfume.jpg"],
+    "notas_saida": "Acorde de cânhamo e Toranja",
+    "notas_coracao": "Sálvia e Gerânio",
+    "notas_fundo": "Couro e Vetiver",
+    "descricao": ""
+  },
+  {
+    "id": 42,
+    "nome": "212 Sexuy Men",
+    "marca": "Carolina Herrera",
+    "categoria": "masculino",
+    "volume": "50ml",
+    "imagens": ["212sexuymen.jpg"],
+    "notas_saida": "Folhas Cítricas e Grama Cortada",
+    "notas_coracao": "Gardênio e Lavanda",
+    "notas_fundo": "Sândalo e Almíscar",
+    "descricao": ""
+  },
+  {
+    "id": 43,
+    "nome": "Good Girl Blush Polka Paradise Eau de Parfum",
+    "marca": "Carolina Herrera",
+    "categoria": "feminino",
+    "volume": "80ml",
+    "imagens": ["goodgirlblushpolkaparadise.jpg"],
+    "notas_saida": "Bergamota e amêndoa amarga",
+    "notas_coracao": "Ilang-ilang e peônia",
+    "notas_fundo": "Baunilha e Fava Tonka",
+    "descricao": "",
+    "lancamento": true
   }
 ]
