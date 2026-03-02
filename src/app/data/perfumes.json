@@ -11,9 +11,7 @@
     "notas_coracao":"Flor de Laranjeira, Cacau e Jasmim",
     "notas_fundo":"Baunilha, Fava Tonka e Patchouli",
     "fixacao":"Moderada",
-    "projecao":"Moderada",
-    "lancamento": true,
-    "destaque": true
+    "projecao":"Moderada"
   },
   {
     "id": 2,
@@ -27,8 +25,7 @@
     "notas_coracao": "Peônia",
     "notas_fundo": "Patchouli e Queenwood",
     "fixacao":"Moderada a Alta",
-    "projecao":"Moderada",
-    "destaque": true
+    "projecao":"Moderada"
   },
   {
     "id": 3,

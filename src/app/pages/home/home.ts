@@ -22,10 +22,20 @@ export class HomeComponent implements OnInit {
   }
 
   get perfumesFiltrados() {
-    if (this.filtroAtivo === 'todos') {
-      return this.perfumes;
-    }
-    return this.perfumes.filter(p => p.categoria === this.filtroAtivo);
+    let filtrados = this.filtroAtivo === 'todos'
+      ? this.perfumes
+      : this.perfumes.filter(p => p.categoria === this.filtroAtivo);
+
+    // Destaques primeiro, depois lançamentos
+    return filtrados.sort((a, b) => {
+      const aDest = a.destaque ? 1 : 0;
+      const bDest = b.destaque ? 1 : 0;
+      if (bDest !== aDest) return bDest - aDest;
+
+      const aLanc = a.lancamento ? 1 : 0;
+      const bLanc = b.lancamento ? 1 : 0;
+      return bLanc - aLanc;
+    });
   }
 
   filtrar(categoria: string) {
