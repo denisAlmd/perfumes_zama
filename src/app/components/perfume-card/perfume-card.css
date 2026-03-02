@@ -153,26 +153,35 @@ h3 {
   color: #a67c5e;
 }
 
-.preco-categoria {
+.info-linha {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 10px 0;
+  margin: 10px 0 0 0;
 }
 
 .categoria {
-  background: #d4b89c;
-  color: white;
-  padding: 4px 8px;
-  border-radius: 4px;
+  background: #f3e0e7;
+  color: #a67c6c;
+  padding: 3px 10px;
+  border-radius: 12px;
   font-size: 12px;
   text-transform: capitalize;
+  font-weight: 500;
 }
 
-.volume {
-  font-size: 20px;
-  font-weight: bold;
-  color: #6b4f3c;
+.volume-badge {
+  display: inline-block;
+  background: #f7f3ef;
+  color: #a67c5e;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 6px;
+  margin-left: 4px;
+  vertical-align: middle;
+  box-shadow: 0 1px 3px rgba(166,124,94,0.07);
 }
 
 .contatos {
