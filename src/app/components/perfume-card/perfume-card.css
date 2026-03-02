@@ -19,6 +19,7 @@
   height: 300px;
   overflow: hidden;
   border-radius: 4px;
+
 }
 
 img {
@@ -132,6 +133,15 @@ h3 {
   font-size: 14px;
   margin: 10px 0;
   line-height: 1.4;
+  max-height: 60px;
+  overflow: auto;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  scrollbar-width: thin;           /* Firefox */
+  scrollbar-color: #d4b89c #f3e0e7;/* Firefox */
 }
 
 .notas {

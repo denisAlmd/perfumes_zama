@@ -12,7 +12,8 @@
     "notas_fundo":"Baunilha, Fava Tonka e Patchouli",
     "fixacao":"Moderada",
     "projecao":"Moderada",
-    "lancamento": true
+    "lancamento": true,
+    "destaque": true
   },
   {
     "id": 2,
@@ -286,4 +287,29 @@
     "notas_fundo": "Fava Tonka e Cacau",
     "fixacao": "Alta",
     "projecao": "Moderada."
-  }]
+  },
+  {
+    "id": 21,
+    "nome":"Good Girl Dazzling Garden EDP",
+    "marca": "Carolina Herrera",
+    "categoria": "feminino",
+    "volume": "80ml",
+    "descricao":"ALTERAR",
+    "imagens": ["dazzling.jpg"],
+    "notas_saida": "Amêndoa e Café",
+    "notas_coracao": "Jasmim-árabe e Tuberosa",
+    "notas_fundo": "Fava Tonka e Cacau"
+  },
+  {
+    "id": 22,
+    "nome":"CH FEMME EDT",
+    "marca": "Carolina Herrera",
+    "categoria": "feminino",
+    "volume": "30ml, 50ml e 100ml",
+    "descricao":"ALTERAR",
+    "imagens": ["chfemme.jpg"],
+    "notas_saida": "Bergamota e Grapefruit",
+    "notas_coracao": "Rosa da Bulgária e Jasmim-árabe",
+    "notas_fundo": "Patchouli e Nota de pralinê"
+  }
+]
